@@ -1,0 +1,16 @@
+.text1
+{
+    font-family: "Miltonian", serif;
+}
+
+.section button
+{
+    width: 15%;
+    height: 8%;
+    background-color: blue;
+    color: white;
+}
+.section button:hover
+{
+    background-color: green;
+}
